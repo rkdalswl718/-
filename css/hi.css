@@ -74,7 +74,7 @@ nav {
     margin-bottom: 20px;
 }
 
-.jo:hober {
+.jo:hover {
     background-color: rgb(119, 158, 255);
 }
 
@@ -105,7 +105,7 @@ nav {
     color:#1f2937;
     font-family: 'Spoqa Han Sans Neo', 'sans-serif';
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
     margin-top: 25px;
 }
 
@@ -120,7 +120,8 @@ nav {
     border-radius: 5px;
     font-size: 16px;
 }
-.go:hober {
-    background-color: rgb(54, 71, 114);
+.goo:hover {
+    background-color: rgb(0, 0, 0);
+    color: white;
 }
 

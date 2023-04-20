@@ -36,7 +36,7 @@ nav {
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
     margin-right: 30px;
-    margin-top: 30px;
+    margin-top: 27px;
 }
 
 .login {
@@ -50,7 +50,7 @@ nav {
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
     border: none;
-    margin-top: 30px;
+    margin-top: 27px;
     color: #6B7280;
     width: 44.28px;
     height: 25.6px;
@@ -74,7 +74,7 @@ nav {
     margin-bottom: 20px;
 }
 
-.go:hober {
+.jo:hober {
     background-color: rgb(119, 158, 255);
 }
 
@@ -109,7 +109,18 @@ nav {
     margin-top: 25px;
 }
 
+.goo {
+    text-align: center;
+    background-color: white;
+    width: 188.36px;
+    height: 51.2px;
+    margin-top: 30px;
+    margin-left: 44%;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
 .go:hober {
-    background-color: rgb(149, 179, 255);
+    background-color: rgb(54, 71, 114);
 }
 
